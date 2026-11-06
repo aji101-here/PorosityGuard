@@ -1,17 +1,24 @@
 # PorosityGuard
 My first project[actually not, i have built more projects before. Maybe more like - first project which is gonna go up on github!] happens to a porosity predictor!! Let's see how it goes...
 <br> 
+<br>
+<br>
 Alright, so I am going to use the following dataset:
 <br>
 "Dataset of X-Ray Micro Computed Tomography Measurements of Porosity for Nominal and Low Power Coupons Fabricated by Powder Bed Fusion-Laser Beam"
 on Figshare by Justin Miner, Sneha Prabha Narra...
 <br>
+<br>
 Alongside a readme file, it has two csv files, named:
+<br>
 parameters.csv and poredf.csv
+<br>
 <br>
 On merging the two files together on a 'Name' column, we were left with:
 <br>
+<br>
 484k rows and 11 columns namely:
+<br>
 <br>
 A.Name
 <br>
